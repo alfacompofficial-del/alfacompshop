@@ -37,7 +37,7 @@ const HeroSection = () => {
             <div className="flex gap-8 mb-8">
               {[
                 { value: "80+", label: "Товаров" },
-                { value: "24/7", label: "Поддержка" },
+                { value: "9–19", label: "Поддержка" },
                 { value: "1 день", label: "Доставка" },
               ].map((s) => (
                 <div key={s.label} className="flex flex-col">
