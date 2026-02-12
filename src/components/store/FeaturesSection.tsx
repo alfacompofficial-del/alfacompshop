@@ -5,7 +5,7 @@ const features = [
   { icon: ShieldCheck, title: "Официальная гарантия", desc: "Все товары сертифицированы и имеют гарантию производителя" },
   { icon: Truck, title: "Быстрая доставка", desc: "Доставка по Ташкенту за 1 день, по Узбекистану — до 3 дней" },
   { icon: CreditCard, title: "Удобная оплата", desc: "Наличные, карта, Click, Payme, Uzumbank" },
-  { icon: Headset, title: "Поддержка 24/7", desc: "Консультации в Telegram и по телефону" },
+  { icon: Headset, title: "Поддержка 9:00–19:00", desc: "Консультации в Telegram и по телефону" },
 ];
 
 const FeaturesSection = () => (
