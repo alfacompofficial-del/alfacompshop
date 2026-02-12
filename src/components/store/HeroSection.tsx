@@ -38,7 +38,6 @@ const HeroSection = () => {
               {[
                 { value: "80+", label: "Товаров" },
                 { value: "9–19", label: "Поддержка" },
-                { value: "1 день", label: "Доставка" },
               ].map((s) => (
                 <div key={s.label} className="flex flex-col">
                   <span className="text-2xl sm:text-3xl font-extrabold text-primary">{s.value}</span>
